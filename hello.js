@@ -4,3 +4,9 @@ function add(a,b){
     
 }
 add(20,30)
+
+function name1(){
+    console.log('Ramesh');
+    
+}
+name1();
